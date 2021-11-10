@@ -1,0 +1,18 @@
+git init
+git add .
+git commit -m "comments"
+git remote add <name> <url>
+git push --set-upstream origin master
+
+touch filename.txt(to create empty file)
+git branch
+git branch <branchname>(to create new branch)
+git checkout master
+git checkout <branchname>
+git rebase master
+git merge dev
+
+git status
+ls (to see number of files in branch)
+
+
