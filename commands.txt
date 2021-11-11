@@ -14,5 +14,6 @@ git merge dev
 
 git status
 ls (to see number of files in branch)
+git cherry-pick filename
 
 
